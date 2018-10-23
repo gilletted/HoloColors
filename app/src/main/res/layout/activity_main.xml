@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_blue_bright"
+        android:text="@string/holo_blue_bright" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_blue_dark"
+        android:text="@string/holo_blue_dark" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_blue_light"
+        android:text="@string/holo_blue_light" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_green_dark"
+        android:text="@string/holo_green_dark" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_orange_dark"
+        android:text="@string/holo_orange_dark" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_orange_light"
+        android:text="@string/holo_orange_light" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_purple"
+        android:text="@string/holo_purple" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_red_dark"
+        android:text="@string/holo_red_dark" />
+
+    <TextView
+        style="@style/color_bar"
+        android:background="@android:color/holo_red_light"
+        android:text="@string/holo_red_light" />
+
+</android.support.v7.widget.LinearLayoutCompat>
