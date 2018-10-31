@@ -2,10 +2,11 @@
     <string name="app_name">Holo Colors</string>
 
     <string name="holo_blue_bright">holo_blue_bright #00ddff</string>
-    <string name="holo_blue_dark">holo_blue_dark #00ddff</string>
+    <string name="holo_blue_dark">holo_blue_dark #0099cc</string>
     <string name="holo_blue_light">holo_blue_light #3b5e5</string>
 
     <string name="holo_green_dark">holo_green_dark #669900</string>
+    <string name="holo_green_light">holo_green_light #99cc00</string>
 
     <string name="holo_orange_dark">holo_orange_dark #ff8800</string>
     <string name="holo_orange_light">holo_orange_light #ffbb33</string>

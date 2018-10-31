@@ -28,6 +28,11 @@
 
     <TextView
         style="@style/color_bar"
+        android:background="@android:color/holo_green_light"
+        android:text="@string/holo_green_light" />
+
+    <TextView
+        style="@style/color_bar"
         android:background="@android:color/holo_orange_dark"
         android:text="@string/holo_orange_dark" />
 
