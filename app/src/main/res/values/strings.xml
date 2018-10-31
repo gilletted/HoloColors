@@ -1,18 +1,18 @@
 <resources>
     <string name="app_name">Holo Colors</string>
 
-    <string name="holo_blue_bright">holo_blue_bright</string>
-    <string name="holo_blue_dark">holo_blue_dark</string>
-    <string name="holo_blue_light">holo_blue_light</string>
+    <string name="holo_blue_bright">holo_blue_bright #00ddff</string>
+    <string name="holo_blue_dark">holo_blue_dark #00ddff</string>
+    <string name="holo_blue_light">holo_blue_light #3b5e5</string>
 
-    <string name="holo_green_dark">holo_green_dark</string>
+    <string name="holo_green_dark">holo_green_dark #669900</string>
 
-    <string name="holo_orange_dark">holo_orange_dark</string>
-    <string name="holo_orange_light">holo_orange_light</string>
+    <string name="holo_orange_dark">holo_orange_dark #ff8800</string>
+    <string name="holo_orange_light">holo_orange_light #ffbb33</string>
 
-    <string name="holo_purple">holo_purple</string>
+    <string name="holo_purple">holo_purple #aa66cc</string>
 
-    <string name="holo_red_dark">holo_red_dark</string>
-    <string name="holo_red_light">holo_red_light</string>
+    <string name="holo_red_dark">holo_red_dark #cc0000</string>
+    <string name="holo_red_light">holo_red_light #ff4444</string>
 
 </resources>
